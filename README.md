@@ -52,3 +52,13 @@ Watch the game being played from the consoler [here](https://drive.google.com/dr
 - Implement hero's special abilities.
 - Manage game flow, rounds, and update map dynamically.
 
+## How to Play
+
+Environment Setup:
+Ensure you have CLion installed on your system or use Codeblocks. 
+Clone the project repository to your local machine.
+
+Build and Run:
+Open the project in CLion/Codeblocks.
+Build and run the project to initiate the game.
+
